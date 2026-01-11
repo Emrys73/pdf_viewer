@@ -4,12 +4,12 @@ A cross-platform Flutter PDF reader application for iOS and Android with basic v
 
 ## Features
 
-- 📱 **Cross-platform**: Works on both iOS and Android
-- 📄 **PDF Viewing**: Open and view PDF files from device storage
-- 🔍 **Zoom Controls**: Pinch to zoom and zoom controls
-- 📖 **Page Navigation**: Navigate between pages with smooth scrolling
-- 🎨 **Modern UI**: Material Design 3 with beautiful, intuitive interface
-- 🌙 **Dark Mode**: Automatic dark/light theme support
+- **Cross-platform**: Works on both iOS and Android
+- **PDF Viewing**: Open and view PDF files from device storage
+- **Zoom Controls**: Pinch to zoom and zoom controls
+- **Page Navigation**: Navigate between pages with smooth scrolling
+- **Modern UI**: Material Design 3 with beautiful, intuitive interface
+- **Dark Mode**: Automatic dark/light theme support
 
 ## Screenshots
 
